@@ -1,0 +1,51 @@
+main {
+    background-color: whitesmoke;
+    padding: 1rem;
+}
+
+.sesion__form h2 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 3rem;
+
+}
+
+
+.sesion__form input {
+    width: 65%;
+    margin: 1rem auto;
+    padding: .5rem 3rem;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px -5px rgba(196, 196, 196, 1);
+    -webkit-box-shadow: 10px 10px 5px -5px rgba(196, 196, 196, 1);
+    -moz-box-shadow: 10px 10px 5px -5px rgba(196, 196, 196, 1);
+
+}
+
+.sesion__btn {
+    background: blue;
+    margin: 0 auto;
+    padding: .5rem 1rem;
+}
+
+
+@media screen and (min-width: 767px) {
+    .sesion__form input {
+        width: 50%;
+    }
+}
+
+
+@media screen and (min-width: 1024px) {
+    .sesion__form input {
+        width: 25%;
+        padding: 1rem 3rem;
+    }
+
+    .sesion__btn{
+        width: 25%;
+        padding: 1rem;
+    }
+}

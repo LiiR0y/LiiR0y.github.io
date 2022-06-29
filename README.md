@@ -30,8 +30,8 @@ El usuario deberia ser capaz de:
 
 ### Links
 
-- Solucion URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solucion URL: [Solucion en Github](https://github.com/LiiR0y/liir0y.github.io)
+- Live Site URL: [live site ](https://liir0y.github.io/)
 
 ## Mi proceso
 

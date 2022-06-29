@@ -20,7 +20,9 @@
     --Font-size: 14px;
 }
 
-
+body{
+    overflow-x: hidden;
+}
 .container {
     width: 460px;
 

@@ -1,6 +1,7 @@
 @import url(/css/style.css);
+
+
 main {
-    
     padding: 1rem;
 }
 
@@ -27,7 +28,7 @@ main {
 }
 
 .sesion__btn {
-    background: blue;
+    background:#2A7AE4;
     margin: 0 auto;
     padding: .5rem 1rem;
 }

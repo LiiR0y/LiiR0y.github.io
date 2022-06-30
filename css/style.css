@@ -20,8 +20,10 @@
     --Font-size: 14px;
 }
 
+
 body{
     overflow-x: hidden;
+    
 }
 .container {
     width: 480px;
@@ -133,11 +135,12 @@ main{
 }
 
 /*=============== PRODUCTS ===============*/
+
 .grid__products {
-    width: 95%;
+    width: 90%;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 2rem 1rem;
+    margin: 2rem rem;
     color: var(--black);
 }
 
@@ -189,7 +192,7 @@ main{
 }
 
 .footer__form {
-
+    width: 95%;
     text-align: justify;
     font-weight: bold;
 }
@@ -317,11 +320,18 @@ main{
     }
     
     header{
-        margin: 0 10rem;
+        margin: auto;
+        
+    }
+
+    .nav__logo{
+        width: 25%;
     }
     .nav {
+        
         justify-content: space-between;
-       margin: 2rem;
+    
+       margin:  2rem;
        
     }
 
@@ -332,7 +342,7 @@ main{
     
     .nav__search input{
         
-        width: 400px;
+        width: 500px;
         height: 40px;
     }
     

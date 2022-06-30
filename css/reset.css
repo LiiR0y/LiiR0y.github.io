@@ -43,6 +43,7 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   vertical-align: baseline;
+  
 }
 
 /* Evitamos problemas con las imagenes */
@@ -79,6 +80,8 @@ li {
 /* Configuramos anclas suaves */
 html {
   scroll-behavior: smooth;
+  
+  
 }
 
 /* Desactivamos estilos por defecto de las principales etiquetas de texto */
@@ -142,6 +145,7 @@ svg {
 } */
 /* Configuramos la tipografía para toda la web */
 body {
+  
   min-height: 100vh;
   font-size: 100%;
   font-family: var(--tipo-principal);

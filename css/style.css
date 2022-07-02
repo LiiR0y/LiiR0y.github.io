@@ -25,10 +25,8 @@ body{
     overflow-x: hidden;
     
 }
-.container {
-    width: 480px;
 
-}
+
 
 header {
     background-color: var(--body-bg);
@@ -137,10 +135,10 @@ main{
 /*=============== PRODUCTS ===============*/
 
 .grid__products {
-    width: 90%;
+    width: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 2rem rem;
+    margin: 2rem auto;
     color: var(--black);
 }
 
@@ -192,7 +190,8 @@ main{
 }
 
 .footer__form {
-    width: 95%;
+    width: 100%;
+    margin: 0 auto;
     text-align: justify;
     font-weight: bold;
 }
